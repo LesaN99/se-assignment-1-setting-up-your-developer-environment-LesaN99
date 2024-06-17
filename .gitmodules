@@ -1,0 +1,3 @@
+[submodule "SampleProject"]
+	path = SampleProject
+	url = https://github.com/LesaN99/SampleProject.git
